@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "738955086364",
+    "firebase_url": "https://geomode-8846d.firebaseio.com",
+    "project_id": "geomode-8846d",
+    "storage_bucket": "geomode-8846d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738955086364:android:b7b2edfe17acf5c3",
+        "android_client_info": {
+          "package_name": "team13.geomode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738955086364-gu5vdo3a2f4elquecs1jk1qdv5md5vtp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "738955086364-gu5vdo3a2f4elquecs1jk1qdv5md5vtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsAxckRBq0nTCMVIi_qA_KUHCUasimOR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
